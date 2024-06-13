@@ -1,0 +1,98 @@
+{
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Sign Up",
+      "haveAccount": "Already have an account?",
+      "login": "Login",
+      "passwordMismatch": "Passwords do not match"
+    },
+    "aquarium": {
+      "aquariumDetails": "Aquarium Details",
+      "aquariumType": "Aquarium type",
+      "acidity": "Acidity",
+      "waterLevel": "Water level",
+      "temperature": "Temperature",
+      "lighting": "Lighting",
+      "updateAquarium": "Update Aquarium",
+      "update": "Update",
+      "addAquarium": "Add Aquarium",
+      "add": "Add",
+      "name": "Name",
+      "aquariumAdministration": "Aquarium Administration",
+      "type": "Type",
+      "delete": "Delete",
+      "userAquariums": "User Aquariums",
+      "view": "View",
+      "inhabitants": "Inhabitants"
+    },
+    "user": {
+      "updateUser": "Update User",
+      "password": "Password",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "update": "Update",
+      "cancel": "Cancel",
+      "userAdministration": "User Administration",
+      "selectUser": "Select a User",
+      "delete": "Delete",
+      "aquariums" : "Aquariums"
+    },
+    "navigationBar": {
+      "logout": "Logout",
+      "researchReport": "Research reports",
+      "analysisReport": "Analysis reports"
+    },
+    "adminPanel": {
+      "title": "Admin panel"
+    },
+    "inhabitant": {
+      "inhabitants": "Manage inhabitants",
+      "species": "Species",
+      "name": "Name",
+      "userNotes": "User notes",
+      "behavior": "Behavior",
+      "condition": "Condition",
+      "update": "Update",
+      "updateInhabitant": "Update inhabitant",
+      "addInhabitant": "Add inhabitant",
+      "inhabitantDetails": "Inhabitant details",
+      "delete": "Delete",
+      "add": "Add inhabitant",
+      "view": "View"
+    },
+    "researchReport": {
+      "add": "Add research report",
+      "delete": "Delete",
+      "submit": "Submit",
+      "filterByAquariumType": "Filter by aquarium type",
+      "researchReports": "Manage research reports",
+      "selectAquarium": "Select aquarium"
+    },
+    "analysisReport": {
+      "selectResearchReport": "Select research report",
+      "add": "Add analysis report",
+      "delete": "Delete",
+      "submit": "Submit",
+      "view": "View",
+      "viewAnalysisReport": "View analysis report",
+      "filterByAquariumType": "Filter by aquarium type",
+      "creationDate": "Creation date",
+      "identifiedTrends": "Identified trends",
+      "recommendations": "Recommendations",
+      "analysisReports": "Manage analysis reports"
+    }
+  }
+  

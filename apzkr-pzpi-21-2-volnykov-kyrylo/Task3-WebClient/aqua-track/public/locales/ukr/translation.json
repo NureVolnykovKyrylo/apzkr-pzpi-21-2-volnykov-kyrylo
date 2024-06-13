@@ -1,0 +1,97 @@
+{
+  "login": {
+    "title": "Увійти",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "submit": "Увійти",
+    "noAccount": "Ще не маєте облікового запису?",
+    "signup": "Зареєструватися"
+  },
+  "signup": {
+    "title": "Зареєструватися",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "confirmPassword": "Підтвердити пароль",
+    "submit": "Зареєструватися",
+    "haveAccount": "Вже маєте обліковий запис?",
+    "login": "Увійти",
+    "passwordMismatch": "Паролі не збігаються"
+  },
+  "aquarium": {
+    "aquariumDetails": "Деталі акваріуму",
+    "aquariumType": "Тип акваріуму",
+    "acidity": "Кислотність",
+    "waterLevel": "Рівень води",
+    "temperature": "Температура",
+    "lighting": "Освітлення",
+    "updateAquarium": "Оновити акваріум",
+    "update": "Оновити",
+    "addAquarium": "Додати акваріум",
+    "add": "Додати",
+    "name": "Назва",
+    "aquariumAdministration": "Адміністрування акваріуму",
+    "type": "Тип",
+    "delete": "Видалити",
+    "userAquariums": "Акваріуми користувача",
+    "view": "Переглянути",
+    "inhabitants": "Мешканці"
+  },
+  "user": {
+    "updateUser": "Оновити користувача",
+    "password": "Пароль",
+    "email": "Електронна пошта",
+    "phoneNumber": "Номер телефону",
+    "firstName": "Ім'я",
+    "lastName": "Прізвище",
+    "update": "Оновити",
+    "cancel": "Скасувати",
+    "userAdministration": "Адміністрування користувача",
+    "selectUser": "Виберіть користувача",
+    "delete": "Видалити",
+    "aquariums": "Акваріуми"
+  },
+  "navigationBar": {
+    "logout": "Вийти",
+    "researchReport": "Звіти досліджень",
+    "analysisReport": "Аналітичні звіти"
+  },
+  "adminPanel": {
+    "title": "Панель адміністратора"
+  },
+  "inhabitant": {
+    "inhabitants": "Керування мешканцями",
+    "species": "Вид",
+    "name": "Ім'я",
+    "userNotes": "Примітки користувача",
+    "behavior": "Поведінка",
+    "condition": "Стан",
+    "update": "Оновити",
+    "updateInhabitant": "Оновити мешканця",
+    "addInhabitant": "Додати мешканця",
+    "inhabitantDetails": "Деталі мешканця",
+    "delete": "Видалити",
+    "add": "Додати мешканця",
+    "view": "Переглянути"
+  },
+  "researchReport": {
+    "add": "Додати дослідний звіт",
+    "delete": "Видалити",
+    "submit": "Подати",
+    "filterByAquariumType": "Фільтрувати за типом акваріуму",
+    "researchReports": "Керування дослідними звітами",
+    "selectAquarium": "Виберіть акваріум"
+  },
+  "analysisReport": {
+    "selectResearchReport": "Обрати звіт дослідження",
+    "add": "Додати аналітичний звіт",
+    "delete": "Видалити",
+    "submit": "Подати",
+    "view": "Переглянути",
+    "viewAnalysisReport":"Переглянути аналітичний звіт",
+    "filterByAquariumType": "Фільтрувати за типом акваріуму",
+    "creationDate": "Дата створення",
+    "identifiedTrends": "Виявлені тенденції",
+    "recommendations": "Рекомендації",
+    "analysisReports": "Керування аналітичними звітами"
+  }
+}
